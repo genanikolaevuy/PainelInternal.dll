@@ -1,1 +1,1 @@
-# PainelInternal.dll
+# HD-GLView.dll
