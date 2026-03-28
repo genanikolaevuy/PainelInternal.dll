@@ -1,0 +1,1 @@
+# PainelInternal.dll
